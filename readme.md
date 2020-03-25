@@ -16,14 +16,12 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 
 - Fork this project
 - Enhance the code in any ways you can see, you are free!. Some possibilities:
-  - add tests
-  - change syntax
-  - improve doc and comments
-  - fix any bug you might find
-- Make a PR on the original repo (`https://github.com/alj-devops/java-challenge`) from github.com
-- if you think of some possible enhancement you could have made with more time, please describe it in the comment of your PR
-
-
+  - Add tests
+	- Change syntax
+	- Improve doc and comments
+	- Fix any bug you might find
+- Edit readme.md and add any comments. It can be about what you did, what you would have done if you had more time, etc.
+- Send us the link of your fork
 
 #### Restrictions
 - use java 8
