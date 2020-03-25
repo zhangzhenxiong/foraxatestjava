@@ -17,9 +17,9 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 - Fork this project
 - Enhance the code in any ways you can see, you are free!. Some possibilities:
   - Add tests
-	- Change syntax
-	- Improve doc and comments
-	- Fix any bug you might find
+  - Change syntax
+  - Improve doc and comments
+  - Fix any bug you might find
 - Edit readme.md and add any comments. It can be about what you did, what you would have done if you had more time, etc.
 - Send us the link of your fork
 
